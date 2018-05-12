@@ -1,0 +1,37 @@
+_repo: Octavia--Tragedia-em-5-Actos_21563
+_version: 0.1.0
+alternative_title: "Octávia\r\nTragédia em 5 Actos"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alfieri, Vittorio
+    birthdate: 1749
+    deathdate: 1803
+    gutenberg_agent_id: '24785'
+    url: http://www.gutenberg.org/2009/agents/24785
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Vittorio_Alfieri
+    - http://pt.wikipedia.org/wiki/Vittorio_alfieri
+description: ''
+gutenberg_bookshelf: PT Teatro
+gutenberg_issued: '2007-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21563'
+language: pt
+language_note: This ebook uses 19th century spelling
+production_note: "Produced by Pedro Saborano. Para comentários à transcrição\r\nvisite\
+  \ http://pt-scriba.blogspot.com (This book was\r\nproduced from scanned images of\
+  \ public domain material\r\nfrom the Google Print project.)"
+publication_note: "Rio de Janeiro:\r\nTypographia Imp. E Const. de J. Villeneuve &\
+  \ C.\r\nRua do Ouvidor N. 65\r\n1869"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PQ'
+title: 'Octavia: Tragedia em 5 Actos'
+url: http://www.gutenberg.org/ebooks/21563
